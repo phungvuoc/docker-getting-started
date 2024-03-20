@@ -1,3 +1,5 @@
+A personal repository after learning docker tutorials of docker website. I do not own this.
+
 # Getting started
 
 This repository is a sample application for users following the getting started guide at https://docs.docker.com/get-started/.
